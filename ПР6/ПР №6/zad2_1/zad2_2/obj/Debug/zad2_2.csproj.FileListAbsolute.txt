@@ -1,0 +1,48 @@
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\bin\Debug\zad2_2.exe.config
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\bin\Debug\zad2_2.exe
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\bin\Debug\zad2_2.pdb
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.Form1.resources
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.Properties.Resources.resources
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.GenerateResource.Cache
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.exe
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.pdb
+E:\ПРАКТИКА №2\ПР 6\zad2_1\zad2_2\obj\Debug\zad2_2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\bin\Debug\zad2_2.exe.config
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.exe
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\bin\Debug\zad2_2.exe
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\bin\Debug\zad2_2.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.Form1.resources
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.Properties.Resources.resources
+C:\Users\user\Desktop\Практос 3 курс\ПР 6\ПР 6\вр 7\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.GenerateResource.Cache
+E:\Вася\zad2_1\zad2_2\bin\Debug\zad2_2.exe.config
+E:\Вася\zad2_1\zad2_2\bin\Debug\zad2_2.exe
+E:\Вася\zad2_1\zad2_2\bin\Debug\zad2_2.pdb
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.csprojAssemblyReference.cache
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.Form1.resources
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.Properties.Resources.resources
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.GenerateResource.cache
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.CoreCompileInputs.cache
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.exe
+E:\Вася\zad2_1\zad2_2\obj\Debug\zad2_2.pdb
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.exe.config
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.exe
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.pdb
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csprojAssemblyReference.cache
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.Form1.resources
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.Properties.Resources.resources
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.GenerateResource.cache
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.CoreCompileInputs.cache
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.exe
+D:\Капа\практика 3 курс\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.pdb
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.exe.config
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\bin\Debug\zad2_2.pdb
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.Form1.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.Properties.Resources.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\ПР №6\zad2_1\zad2_2\obj\Debug\zad2_2.pdb

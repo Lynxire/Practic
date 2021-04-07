@@ -1,0 +1,81 @@
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\sanek\Desktop\ПРАКТИКА\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Практическая работа №14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\ПР 14 заготовки\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\mscorlib.dll
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\normidna.nlp
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\normnfc.nlp
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\normnfd.nlp
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\normnfkc.nlp
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\normnfkd.nlp
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\Desktop\Практос 3 курс\ПР 14\ПР 14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\Вася\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\практика кпияп\ПР14\Задание 2.1\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

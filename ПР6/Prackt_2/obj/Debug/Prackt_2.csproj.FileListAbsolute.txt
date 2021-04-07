@@ -1,0 +1,20 @@
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\bin\Debug\Prackt_2.exe.config
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\bin\Debug\Prackt_2.exe
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\bin\Debug\Prackt_2.pdb
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.Form1.resources
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.Properties.Resources.resources
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.csproj.GenerateResource.cache
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.csproj.CoreCompileInputs.cache
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.exe
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.pdb
+C:\Users\vldsa\Source\Repos\Prackt6\Prackt_2\obj\Debug\Prackt_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\bin\Debug\Prackt_2.exe.config
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\bin\Debug\Prackt_2.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\bin\Debug\Prackt_2.pdb
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.Form1.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.Properties.Resources.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\Prackt_2\obj\Debug\Prackt_2.pdb

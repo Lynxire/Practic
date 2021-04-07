@@ -1,0 +1,41 @@
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Учёба\ПРАКТИКА\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\КУРСАВАЯ 3\ПР-3курс\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\Курс 3\ПР(3курс)\Отчёт Практическая работа 6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\практика кпияп\ПР6\Задание 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

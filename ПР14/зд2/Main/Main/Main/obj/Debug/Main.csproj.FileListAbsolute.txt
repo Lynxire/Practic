@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\Main.exe.config
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\Main.exe
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\Main.pdb
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\bin\Debug\ClassLibrary1.dll.config
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\obj\Debug\Main.exe
+C:\Users\User\Desktop\практика кпияп\ПР14\зд2\Main\Main\Main\obj\Debug\Main.pdb
